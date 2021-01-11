@@ -32,6 +32,15 @@ Project details
 
 2. Backend: Market developed on top of ocean.
 
+How to run
+===========
+
+1. Clone the repo.
+2. Open your chorme/brave broswer.
+3. Select the chrome extension.
+4. Once the extension is loaded, restart the browser.
+5. CLick on plugin. Get the link and share on ocean marketplace.
+
 
 
 Resources
